@@ -645,6 +645,11 @@ h1, h2, h3, h4, h5, h6 {
   fill: #FF847C;
 }
 
+#qbootstrap-couple .section-heading {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
 .qbootstrap-bg {
   background-size: cover;
   position: relative;
